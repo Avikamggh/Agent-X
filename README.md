@@ -1,3 +1,7 @@
+created by avikam 
+class=11
+
+
 # Agent-X
 The script agent-x.py is an intelligent web optimization and analysis tool that performs automated webpage evaluation using web scraping and Google Gemini AI. Its primary functions include content extraction, SEO optimization, broken link detection, and identification of common SEO issues. It is intended to assist developers, SEO specialists, and content managers in improving webpage performance and visibility.
 
